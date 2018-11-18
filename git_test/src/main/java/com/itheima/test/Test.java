@@ -9,6 +9,8 @@ public class Test {
         System.out.println("测试git");
     }
 
-
+    public void test2(){
+        System.out.println("测试git2");
+    }
 
 }
