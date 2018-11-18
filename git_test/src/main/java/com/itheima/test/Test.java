@@ -12,6 +12,7 @@ public class Test {
     public void test2(){
         System.out.println("测试git2");
         System.out.println("测试git3");
+        System.out.println("测试git4");
     }
 
 }
